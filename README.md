@@ -11,8 +11,8 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/BanAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UnicornXRepo/UnicornXBanall)
 
 # Credits
-* [RiZoeL](https://github.com/MrRizoel)
+* [R](https://github.com/Va)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
